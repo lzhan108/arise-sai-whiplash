@@ -1,0 +1,13 @@
+name: arise_spei
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - xarray
+  - numpy
+  - matplotlib
+  - cartopy
+  - scipy
+  - netCDF4
+  - pip
