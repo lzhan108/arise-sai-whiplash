@@ -101,5 +101,6 @@ Zhang, L., & Touma, D. (2026). Stratospheric Aerosol Injection Reduces Hydroclim
 
 ## Contact
 
-Leyuan Zhang — lz8964@utexas.edu
-Department of Earth and Planetary Sciences, The University of Texas at Austin
+Leyuan Zhang — leyuan.zhang@austin.utexas.edu  
+Jackson School of Geosciences, Institute for Geophysics  
+University of Texas at Austin
