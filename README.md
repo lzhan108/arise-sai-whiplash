@@ -32,14 +32,16 @@ Model output (ARISE-SAI-1.5, ARISE-SAI-1.0, ARISE-SAI-2045) is publicly availabl
 - https://doi.org/10.5065/9kcn-9y79
 - https://doi.org/10.26024/0cs0-ev98
 
-This code is archived via Zenodo: [DOI to be added]
+Processed SPEI-3 data and this analysis/figure code are archived via Zenodo: https://doi.org/10.5281/zenodo.22774373
 
 
 ---
 
 ## Citation
 
-Citation details will be added once available.
+Software citation:
+
+Zhang, L., & Touma, D. (2026). Code for "Winners and Losers: How Stratospheric Aerosol Injection Reshapes Hydroclimate Whiplash Risk" [Software]. Zenodo. https://doi.org/10.5281/zenodo.22774373
 
 ---
 
